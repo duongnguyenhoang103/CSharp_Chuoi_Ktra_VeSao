@@ -27,11 +27,7 @@ namespace WindowsFormsApplication1
             label3.Font = new Font(label2.Font, FontStyle.Bold);
 
         }
-<<<<<<< HEAD
-        // hihi
-=======
 
->>>>>>> 1a64875699b7c24d40867c9571ed2f6d533b3cc3
         private void frmChiaHet3_Load(object sender, EventArgs e)
         {
             label3.Text = "";
