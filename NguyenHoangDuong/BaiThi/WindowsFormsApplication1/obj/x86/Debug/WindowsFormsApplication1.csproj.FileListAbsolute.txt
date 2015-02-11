@@ -30,6 +30,7 @@ C:\Users\duong\Desktop\NguyenHoangDuong\BaiThi\WindowsFormsApplication1\obj\x86\
 C:\Users\duong\Desktop\NguyenHoangDuong\BaiThi\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.frmtu0den10.resources
 C:\Users\duong\Desktop\NguyenHoangDuong\BaiThi\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.frmVeSao1.resources
 C:\Users\duong\Desktop\NguyenHoangDuong\BaiThi\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.frmString.resources
+<<<<<<< HEAD
 C:\Users\duong\Desktop\CSharp_Chuoi_Ktra_VeSao\NguyenHoangDuong\BaiThi\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
 C:\Users\duong\Desktop\CSharp_Chuoi_Ktra_VeSao\NguyenHoangDuong\BaiThi\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
 C:\Users\duong\Desktop\CSharp_Chuoi_Ktra_VeSao\NguyenHoangDuong\BaiThi\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
@@ -47,3 +48,5 @@ C:\Users\duong\Desktop\CSharp_Chuoi_Ktra_VeSao\NguyenHoangDuong\BaiThi\WindowsFo
 C:\Users\duong\Desktop\CSharp_Chuoi_Ktra_VeSao\NguyenHoangDuong\BaiThi\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.frmVeSao1.resources
 C:\Users\duong\Desktop\CSharp_Chuoi_Ktra_VeSao\NguyenHoangDuong\BaiThi\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
 C:\Users\duong\Desktop\CSharp_Chuoi_Ktra_VeSao\NguyenHoangDuong\BaiThi\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+=======
+>>>>>>> 1a64875699b7c24d40867c9571ed2f6d533b3cc3
